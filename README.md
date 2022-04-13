@@ -12,6 +12,7 @@ The file 'KNN_RandForests.py' refers to both KNN and Random Forests.<br/>
 The file 'Bayes.py' refers to the Gaussian Naive Bayes algorithm.<br/>
 The file 'LogisticRegression.py' refers to the Logistic Regression algorithm.<br/><br/>
 
+LIBRARIES<br/>
 All the experiments were performed using Python 3.<br/>
 All libraries can be installed through python's package manager pip.<br/>
 Numpy - pip install numpy<br/>
