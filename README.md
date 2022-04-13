@@ -13,7 +13,7 @@ The file 'Bayes.py' refers to the Gaussian Naive Bayes algorithm.<br/>
 The file 'LogisticRegression.py' refers to the Logistic Regression algorithm.<br/><br/>
 
 FIGURES<br/>
-All the figures presented in the paper can be found under /root/Figures.
+All the figures presented in the paper can be found under /root folder named according to the algorithm.
 <br/>
 Contacts for suggestions or observations:<br/>
 Arthur - ammedeiros@inf.ufrgs.br<br/>
