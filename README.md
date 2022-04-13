@@ -18,12 +18,12 @@ Numpy - pip install numpy<br/>
 Matplotlib - pip install matplotlib<br/>
 Pandas - pip install pandas<br/>
 Scikit-learn - pip install scikit-learn<br/>
-Math - pip install python-math <br/>
+Math - pip install python-math <br/><br/>
 
 
 FIGURES<br/>
 All the figures presented in the paper can be found under /root folder named according to the algorithm.
-<br/>
+<br/><br/>
 Contacts for suggestions or observations:<br/>
 Arthur - ammedeiros@inf.ufrgs.br<br/>
 Fabio - fabio.pereira@inf.ufrgs.br<br/>
