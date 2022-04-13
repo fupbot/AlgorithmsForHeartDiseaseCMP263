@@ -1,7 +1,7 @@
-# Algorithms For Heart Disease CMP263 UFRGS 2022
+# Algorithms For Heart Disease Prediction CMP263 UFRGS 2022
 
 Auxiliary data for reproducibility of the paper 'Comparative Analysis of Classification Algorithms for the Prediction of Heart Disease'.
-This is the final project for the course CMP263 - Machine Learning taught by Prof. Dr. Mariana Recamonde Mendoza.
+This is the final project for the course CMP263 - Machine Learning taught by Prof. Dr. Mariana Recamonde Mendoza at UFRGS (Brazil).
 The authors of the project are Arthur Medeiros, Fabio Pereira and Gustavo Loguercio.<br/>
 <br/>
 DATA<br/>
